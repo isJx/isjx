@@ -1,21 +1,32 @@
 ### Hi there 👋
 
+-
+
 
 **isJx/isjx** is a ✨ _special_ ✨
 
-```
-    🧱  
-   🧱🧱
-  🧱🧱🧱
- 🧱🧱🧱🧱
-🧱🧱🧱🧱🧱
-```
+Yesterday:  🧱🧱
 
+
+Today          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:  🧱🧱
+
+
+Tomorrow:  🧱🧱
+
+
+...............:  🧱🧱
+
+
+🧱🧱🧱🧱🧱  
+🧱🧱🧱🧱🧱  
+🧱🧱🧱🧱🧱  
+🧱🧱🧱🧱🧱
+
+-
 - 🔭 I’m currently working moving bricks 🧱🧱
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: developer9818@gmail.com
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 ## Teck Stack
