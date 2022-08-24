@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://img.shields.io/badge/IDE-VSCODE-blue)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isJx&theme=dark&layout=compact)
