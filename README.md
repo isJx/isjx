@@ -7,11 +7,6 @@
 Yesterday:  🧱🧱&emsp;&emsp;Today:  🧱🧱&emsp;&emsp;Tomorrow:  🧱🧱&emsp;&emsp;
 ....:  🧱🧱
 
-🧱🧱🧱🧱🧱  
-🧱🧱🧱🧱🧱  
-🧱🧱🧱🧱🧱  
-🧱🧱🧱🧱🧱
-
 ---
 
 - 🔭 I’m currently working moving bricks 🧱🧱
