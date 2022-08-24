@@ -3,11 +3,13 @@
 
 **isJx/isjx** is a ✨ _special_ ✨
 
+```
     🧱  
    🧱🧱
   🧱🧱🧱
  🧱🧱🧱🧱
 🧱🧱🧱🧱🧱
+```
 
 - 🔭 I’m currently working moving bricks 🧱🧱
 - 🌱 I’m currently learning ...
