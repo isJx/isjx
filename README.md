@@ -2,8 +2,6 @@
 
 **isJx/isjx** is a ✨ _special_ ✨
 
----
-
 Yesterday:  🧱🧱&emsp;&emsp;Today:  🧱🧱&emsp;&emsp;Tomorrow:  🧱🧱&emsp;&emsp;
 ....:  🧱🧱
 
