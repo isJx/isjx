@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/IDE-VSCODE-blue)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isJx&theme=dark&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=isJx&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=isJx&show_icons=true&theme=default&count_private=true)
