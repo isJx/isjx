@@ -23,3 +23,7 @@ Yesterday: 🧱🧱&emsp;&emsp;Today: 🧱🧱&emsp;&emsp;Tomorrow: 🧱🧱
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=isJx)](https://github.com/isJx/website)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isJx&theme=red&layout=compact) -->
+
+主页访问量<br>
+
+![](https://profile-counter.glitch.me/isjx/count.svg)
